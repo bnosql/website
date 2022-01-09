@@ -2,7 +2,7 @@
  > WIP
 
 
-![BnoSQL Logo](https://github.com/bnosql/website/blob/main/BnoSQL2-200-98.png)
+![BnoSQL Logo](BnoSQL2-200-98.png)
 
 
 A NoSQL document based DB ecosystem based on blockchain technology.
