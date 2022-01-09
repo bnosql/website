@@ -65,6 +65,6 @@ We will publish our roadmap very soon.
 
 >### Donate
 
-If you want to help your project, please donate **BnoSQL** or **BNB** to our project wallet:
+If you want to help our project, please donate **BnoSQL** or **BNB** to our project wallet:
 	
 	0x9078105264658E4838347Eeb6bbC32d9247a7E8f
