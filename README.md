@@ -41,11 +41,13 @@ Our Python implementation is done and we are working on NodeJS and Java implemen
 
 
 > ### Opensource
+
 Every piece of our code will be published as opensource when we launch it.
 Our ecosystem is already done and we are currently working on some details about the launching. 
 
 
 >### BnoSQL Token
+
 **BnoSQL** token will be used to pay (gas) transactions between your system and the blockchain service (DBaaS).
 
 It is a BEP-20 token developed on BSC (Binance Smart Chain).
