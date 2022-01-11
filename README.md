@@ -6,7 +6,7 @@
 
 
 A NoSQL document based DB ecosystem based on blockchain technology.
-Using different approaches to solve eficiency problems, our ecosystem provide Layer-1 and Layer-2 solutions, bringing **integrity** and **disponibility** to your NoSQL DB, besides the optimizations to provida a **low cost**.
+Using different approaches to solve eficiency problems, our ecosystem provide Layer-1 and Layer-2 solutions, bringing **integrity** and **disponibility** to your NoSQL DB, besides the optimizations to provide a **low cost**.
 
 With our solution, you can built your database on top of an Ethereum blockchain or on top of **our own blockchain**.
 **Public or Private** blockchains can be used with data encryption to provide  **confidentiality** to your data. 
